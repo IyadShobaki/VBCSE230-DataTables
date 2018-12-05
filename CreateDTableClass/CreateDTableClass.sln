@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreateDTableClass", "CreateDTableClass\CreateDTableClass.vbproj", "{10A21D6A-BDEC-4C0A-8C8F-31B7849370FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A21D6A-BDEC-4C0A-8C8F-31B7849370FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A21D6A-BDEC-4C0A-8C8F-31B7849370FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A21D6A-BDEC-4C0A-8C8F-31B7849370FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A21D6A-BDEC-4C0A-8C8F-31B7849370FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1BBA5A4-8558-4FF8-921D-7EDE8C8508CA}
+	EndGlobalSection
+EndGlobal

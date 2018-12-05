@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<MyDataset>
+  <People>
+    <ContactID>10</ContactID>
+    <Username>Steve</Username>
+    <age>33</age>
+  </People>
+</MyDataset>
